@@ -1,26 +1,43 @@
-AI-powered Resume Screening and Ranking System
-📌 Overview
-The AI-powered Resume Screening and Ranking System is an intelligent tool designed to streamline the recruitment process by automatically analyzing, scoring, and ranking resumes based on job-specific criteria.
+# 🧠 AI-powered Resume Screening and Ranking System  
 
-🚀 Features
-AI-driven Resume Parsing – Extracts key information such as skills, experience, education, and achievements.
-Smart Ranking Algorithm – Scores and ranks candidates based on job requirements.
-Keyword Matching & NLP Analysis – Uses Natural Language Processing (NLP) to assess candidate suitability.
-Customizable Job Criteria – Adjust scoring parameters based on company needs.
-Automated Shortlisting – Quickly identifies the best candidates, reducing manual effort.
-User-friendly Dashboard – Visualizes candidate rankings and insights.
-🛠️ Technologies Used
-Python (Flask/Django for backend)
-Machine Learning (Scikit-learn, TensorFlow)
-NLP (spaCy, NLTK)
-Database (MongoDB/PostgreSQL)
-Frontend (React/Angular)
-📂 How It Works
-Upload Resumes – Users upload resumes in PDF/DOCX format.
-Resume Parsing – AI extracts relevant details.
-Skill Matching & Scoring – NLP-based algorithms evaluate and rank candidates.
-Dashboard Visualization – Displays ranked candidates for easy decision-making.
-🎯 Use Cases
-✅ HR & Recruiters looking to automate resume screening.
-✅ Companies hiring at scale.
-✅ Organizations aiming for unbiased, data-driven hiring.
+## 📌 Overview  
+The **AI-powered Resume Screening and Ranking System** is an intelligent recruitment tool that leverages **Machine Learning (ML) and Natural Language Processing (NLP)** to automatically screen, rank, and shortlist resumes based on job-specific criteria. This system helps recruiters save time by quickly identifying the most relevant candidates for a given job position.  
+
+## 🚀 Features  
+- **🔍 AI-driven Resume Parsing** – Extracts key details such as name, skills, experience, education, and achievements.  
+- **📊 Smart Candidate Ranking** – Assigns scores based on job requirements and relevance.  
+- **📝 NLP-based Keyword Matching** – Identifies skills and qualifications using Natural Language Processing.  
+- **⚡ Automated Shortlisting** – Reduces manual effort by pre-selecting top candidates.  
+- **📈 Interactive Dashboard** – Visualizes candidate rankings and provides insights.  
+- **🔧 Customizable Scoring Criteria** – Modify ranking parameters to suit different job roles.  
+
+## 🛠️ Technologies Used  
+- **Python** (Flask/Django for backend)  
+- **Machine Learning** (Scikit-learn, TensorFlow)  
+- **NLP** (spaCy, NLTK)  
+- **Database** (MongoDB/PostgreSQL)  
+- **Frontend** (React/Angular)  
+
+## 📂 How It Works  
+1. **Upload Resumes** – Users upload resumes in PDF/DOCX format.  
+2. **Resume Parsing** – AI extracts key details such as skills, education, and experience.  
+3. **Skill Matching & Scoring** – ML & NLP algorithms evaluate candidates and assign scores.  
+4. **Ranking & Visualization** – The system presents ranked candidates in an easy-to-use dashboard.  
+
+## 🎯 Use Cases  
+✅ HR professionals and recruiters looking to automate resume screening.  
+✅ Companies hiring at scale and needing quick candidate shortlisting.  
+✅ Organizations seeking **unbiased, data-driven** hiring processes.  
+
+## 📦 Installation  
+### 🔹 Prerequisites  
+Ensure you have the following installed:  
+- Python 3.x  
+- pip (Python package manager)  
+- Node.js (if using a React frontend)  
+
+### 🔹 Setup Instructions  
+1. **Clone the Repository**  
+   ```sh
+   git clone https://github.com/yourusername/AI-Resume-Screening.git
+   cd AI-Resume-Screening
