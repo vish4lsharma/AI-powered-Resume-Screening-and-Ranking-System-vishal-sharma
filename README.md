@@ -36,8 +36,4 @@ Ensure you have the following installed:
 - pip (Python package manager)  
 - Node.js (if using a React frontend)  
 
-### 🔹 Setup Instructions  
-1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/yourusername/AI-Resume-Screening.git
-   cd AI-Resume-Screening
+
